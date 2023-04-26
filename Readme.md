@@ -140,7 +140,7 @@ The project was deployed to GitHub Pages using the following steps:
 1. In the GitHub repository, navigate to the Settings tab.
 2. From the source section drop-down menu, select the Master Branch.
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-4. The live link can be found [HERE - Role Model Dogs](https://lizac9.github.io/project1-glasgow-necropolis/).
+4. The live link can be found [HERE - Role Model Dogs](https://pavoni1978.github.io/Role-Model-Dogs/)
 
 #### **Commits:**
 Some of the commits messages are not as precise as I would have wanted them to be. Did not find it easy to learn the GitHub, GitPod databasis. Looking forward to migrating to Code Anywhere for my portfolio two project.
