@@ -1,6 +1,6 @@
 -# Role Model Dogs
 
-[View the Live Project here](xxxxxxxx)
+[View the Live Project here](https://pavoni1978.github.io/Role-Model-Dogs/)
 
 This is a website promoting dog training, located in Edgemead, a fictional address. The purpose of this website is to provide information about what we can provide and how we can make a dog more pleasant to own. The website also includes the option to enquiry about one of the classes and times that classes are offered. 
 
