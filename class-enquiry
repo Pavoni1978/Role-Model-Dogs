@@ -1,0 +1,129 @@
+-<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+
+
+   
+</head>
+
+
+<header>
+    
+    <title>Role Model Dogs</title>
+    
+    <h1>Role Model Dog Training</h1>
+    <h2>A dog to be proud of!</h2>
+
+</header>
+<body>
+
+    <nav>
+        <ul>
+            <li> <a href="about-us">About Us</a> </li>
+            <li> <a href="training-classes">Training Classes</a> </li>
+            <li> <a href="class-enquiry">Class Enquiry</a> </li>
+         
+            
+        </ul>
+    </nav>
+
+    
+        <section id="class-enquiry">
+
+            <h2>Class Enquiry</h2>
+            
+            <p>All classes are £15.00 per person</p>
+            <fieldset>
+                <legend>User Details</legend>
+                <label for="fname">First Name:</label>
+                <input type="text"id="fname"name="fname">
+                <label for="lname">Last Name:</label>
+                <input type="text"id="lname"name="lname">
+                <label for="dname">Dog Name:</label>
+                <input type="text" id="dname" name="dname">
+                <label for="dogbreed">Dog Breed:</label>
+                <input type="text" id="dogbreed" name="dogbreed">
+                <label for="dogage">Dog Age:</label>
+                <input type="text" id="dogage" name="dogage">
+            </fieldset>
+            <fieldset>
+                <legend>Contact Information</legend>
+                <label for="telephone">Telephone Number:</label>
+                <input type="text" id="telephone" name="telephone">
+                <label for="email">Email Address:</label>
+                <input type="email"id="email" name="email">
+                
+            </fieldset>
+
+            <div>
+		    
+                <label for="times">Chosen class time:</label>
+                <input id="times" name="class-times"list="class-times">
+                <datalist id="class-times">
+                    <option value="Monday 08:00-09:30"></option>
+                    <option value="Tuesday 10:30-12:00"></option>
+                    <option value="Wednesday 14:00-15:30"></option>
+                    <option value="Thursday 16:00-17:30"></option>
+                    <option value="Friday 18:30-20:00"></option>
+                </datalist>
+    
+    </div>
+    
+            <input type="submit" value="Send Request">
+
+            
+        </section>
+    
+        
+    
+            <img id="myImage-2" src="https://images.pexels.com/photos/4587971/pexels-photo-4587971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="free-kisses">
+    
+            
+          
+       
+    <footer>
+
+    
+        <ul class="social-networks">
+            <li>
+                <a href="https://en-gb.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)">
+                   <i class="fa-brands fa-square-facebook"></i></a>
+            
+            </li>
+            
+            <li>
+            
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)">
+                <i class="fa-brands fa-square-instagram"></i></a>
+
+            </li>
+
+            <li>
+            
+                <a href="https://twitter.com/i/flow/login" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)">
+                    <i class="fa-brands fa-square-twitter"></i></a>
+    
+                </li>
+
+                <li>
+            
+                    <a href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="Visit our youTube page (opens in a new tab)">
+                        <i class="fa-brands fa-square-youtube"></i></a>
+        
+                    </li>
+
+                </ul>       
+                <script src="https://fontawesome.com/" cross-origin="anonymous"></script>        
+
+            </footer>                 
+                            
+         
+
+    
+</body>
+</html>

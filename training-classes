@@ -1,0 +1,120 @@
+-<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    
+</head>
+
+
+<header>
+    
+    <title>Role Model Dogs</title>
+    
+    <h1>Role Model Dog Training</h1>
+    <h2>A dog to be proud of!</h2>
+</header>
+
+<body>
+
+    <nav>
+        <ul>
+          <li> <a href="about-us">About Us</a> </li>
+          <li> <a href="training-classes">Training Classes</a> </li>
+          <li> <a href="class-enquiry">Class Enquiry</a> </li>
+       
+
+            
+        </ul>
+    </nav>
+    <img id="myImage-3" src="https://images.pexels.com/photos/7210748/pexels-photo-7210748.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="border-collie">
+
+    
+
+    <span id="training-classes">
+
+        <h2>Training Classes</h2>
+
+    <p>All classes are £15.00 per person and will be lead by one of our approved Dog Training Instructors.</p>
+    <p>There will be a maximin of 15 attendees per class</p>
+
+
+        <table border="4px" color="black" align="center">
+        
+            <tr>
+            
+              <td>Monday</td>
+              <td>Tuesday</td>
+              <td>Wednesday</td>
+              <td>Thurdays</td>
+              <td>Friday</td>
+            </tr>
+            <tr> 
+              <td>08:00-09:30</td>
+              <td>10:30-12:00</td>
+              <td>14:00-15:30</td>
+              <td>16:00-17:00</td>
+              <td>18:30-20:00</td>
+            
+           </tr>
+          </table>
+
+
+          <p>All classes are held at our Dog Training Centre:</p>
+          <h2>Role Model Dog Training</h2>
+            <p>165 High Street</p>
+            <p>Edgemead</p>
+            <p>BU23 4SX</p>
+
+            <p>Free parking onsite for all class attendees.</p>
+            <p>All dogs to remain on lead until instructed to release.</p>
+            <p>Please kindly pick up after your dog.</p>
+
+        </span>
+            
+          
+            <footer>
+
+    
+              <ul class="social-networks">
+                  <li>
+                      <a href="https://en-gb.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)">
+                         <i class="fa-brands fa-square-facebook"></i></a>
+                  
+                  </li>
+                  
+                  <li>
+                  
+                  <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)">
+                      <i class="fa-brands fa-square-instagram"></i></a>
+      
+                  </li>
+      
+                  <li>
+                  
+                      <a href="https://twitter.com/i/flow/login" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)">
+                          <i class="fa-brands fa-square-twitter"></i></a>
+          
+                      </li>
+      
+                      <li>
+                  
+                          <a href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="Visit our youTube page (opens in a new tab)">
+                              <i class="fa-brands fa-square-youtube"></i></a>
+              
+                          </li>
+      
+                      </ul>       
+                      <script src="https://fontawesome.com/" cross-origin="anonymous"></script>
+      
+          </footer>
+      
+      
+        
+       
+    
+</body>
+</html>

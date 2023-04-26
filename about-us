@@ -1,0 +1,103 @@
+-<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<header>
+    
+    <title>Role Model Dogs</title>
+    
+    <h1>Role Model Dog Training</h1>
+    <h2>A dog to be proud of!</h2>
+</header>
+<body>
+
+    <nav>
+        <ul>
+            <li> <a href="about-us">About Us</a> </li>
+            <li> <a href="training-classes">Training Classes</a> </li>
+            <li> <a href="class-enquiry">Class Enquiry</a> </li>
+         
+
+            
+        </ul>
+    </nav>
+
+  
+      
+<span id="intro">
+    
+    <h2>About Us</h2>
+
+    
+        <p>We are a family run business with over 20 years experiance in dog training.</p>
+        <p>We specialise in obedience trainng for general obedience out and about and at home.</p>
+            <p>We also specialise in obedience competition training at all levels.</p>
+                <p>We run classes at all levels from Puppy to Advanced classes.</p>
+                <p>Dogs will be taught to sit and lay down on command</p>
+                <p>Dogs taught to heel on the left side on and off the lead.</p>
+                <p>We are actually teaching the handler who then actually trains their own dog.</p>
+                <p>We strive to make your dog alot more pleasant to take out for walks and better behaviour at home.</p>
+                <p>Obedience training is fantastic mental stimulation for all dogs and really benefits them, its as important as phyisical excercise.</p>
+                    <p>All our instructors are vetted and have completed the Level 4 training course at Worldwide Dog Training Acadamy.</p>
+       
+        
+    
+   
+</span>
+  
+    
+        <img id="myImage-1" src="https://images.pexels.com/photos/333083/pexels-photo-333083.jpeg" alt="gsd">
+        
+            
+    
+    
+
+    <footer>
+
+    
+        <ul class="social-networks">
+            <li>
+                <a href="https://en-gb.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)">
+                   <i class="fa-brands fa-square-facebook"></i></a>
+            
+            </li>
+            
+            <li>
+            
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)">
+                <i class="fa-brands fa-square-instagram"></i></a>
+
+            </li>
+
+            <li>
+            
+                <a href="https://twitter.com/i/flow/login" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)">
+                    <i class="fa-brands fa-square-twitter"></i></a>
+    
+                </li>
+
+                <li>
+            
+                    <a href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="Visit our youTube page (opens in a new tab)">
+                        <i class="fa-brands fa-square-youtube"></i></a>
+        
+                    </li>
+
+                </ul>       
+        
+                <script src="https://fontawesome.com/search" crossorigin="anonymous"></script>
+    </footer>
+
+
+  
+    
+</body>
+</html>
