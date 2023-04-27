@@ -64,7 +64,7 @@ Through the navigation bar, the user can easily move around and take full advant
 - Maximun number of attendees per class.
 - Days and times of training classes offered.
 - The training centre address and parking information.
-- A few house rules that the centre have in place.#### 
+- A few house rules that the centre have in place.
 
 ![classes](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607807/training_classes_gmjslt.png)
 
