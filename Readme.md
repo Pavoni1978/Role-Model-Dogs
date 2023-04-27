@@ -79,7 +79,7 @@ Through the navigation bar, the user can easily move around and take full advant
 - This section is dedicated to the dog training centre social media links. 
 - The footer section is set to appear continuously throughout the website so that it can be easily accessed at any time.
 
-![Social links](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682606390/social_media_tpnbyw.png)
+![Social links](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682609782/social_media_setlmw.png)
 
 
 [Back to Top](#role-model-dogs)
