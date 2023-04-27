@@ -100,12 +100,10 @@ Through the navigation bar, the user can easily move around and take full advant
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 3. [GitHub](https://github.com/):
     - GitHub is used to store the project's code after being pushed from Git.
-4. [Balsamiq](https://balsamiq.com/):
-    - Balsamiq was used to create the wireframes during the design process.
-5. [Am I responsive?](https://ui.dev/amiresponsive?url=https%3A%2F%2Fbytes.dev):
+4. [Am I responsive?](https://ui.dev/amiresponsive?url=https%3A%2F%2Fbytes.dev):
     - This application was used for visualization of responsiveness.
    ![Site view across devices](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607183/amiresponsive_mrppyr.png)
-6. [Cloudinary](https://cloudinary.com/):
+5. [Cloudinary](https://cloudinary.com/):
     - Cloudinary was used to store and link the images.
 
 [Back to Top](#role-model-dogs)
