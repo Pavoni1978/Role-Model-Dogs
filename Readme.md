@@ -66,13 +66,13 @@ Through the navigation bar, the user can easily move around and take full advant
 - The training centre address and parking information.
 - A few house rules that the centre have in place.#### 
 
-![classes] (https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607807/training_classes_gmjslt.png)
+![classes](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607807/training_classes_gmjslt.png)
 
 **Class Enquiry**
 
 - This section allows visitors the option to enquire on a set class with their and dogs information. This is carried out through interactive text boxes and a drop down menu to choose a day and time slot. 
 - The form is filled in and submitted. The user is then notified with a confirmation message on a new page. 
-![class enquiry] (https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607958/class_enquiry_hpjkbv.png)
+![class enquiry](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607958/class_enquiry_hpjkbv.png)
 
 #### **Footer:**
 
@@ -103,8 +103,8 @@ Through the navigation bar, the user can easily move around and take full advant
 4. [Balsamiq](https://balsamiq.com/):
     - Balsamiq was used to create the wireframes during the design process.
 5. [Am I responsive?](https://ui.dev/amiresponsive?url=https%3A%2F%2Fbytes.dev):
-    - This application was used for visualization of responsiveness.!
-    [Site view across devices](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607183/amiresponsive_mrppyr.png)
+    - This application was used for visualization of responsiveness.
+   ![Site view across devices](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607183/amiresponsive_mrppyr.png)
 6. [Cloudinary](https://cloudinary.com/):
     - Cloudinary was used to store and link the images.
 
