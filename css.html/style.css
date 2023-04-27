@@ -110,3 +110,10 @@ footer {
     margin: 0 auto;
     
 }
+
+#timings {
+
+    border:4px;
+    color:black;
+    align: center;
+}
