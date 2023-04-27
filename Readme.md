@@ -33,7 +33,7 @@ This is a website promoting dog training, located in Edgemead, a fictional addre
 ## Features:
 ### UI/UX:
 #### **Colour Scheme:**
-- The main colours used are in a grey and white scale. The text is pulled forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website highlighted with a 4px black border. The black text on grey background makes for easy reading in all platforms.
+- The main colours used are in a grey and white scale. The text is pulled forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website highlighted with a 4px black border. The black text on grey background makes for easy reading on all platforms.
 In the event of creating print media, the previous use of grey and white scale in the “branding” of the Role Model Dogs will be far more cost effective in printing and designing expenses. 
 
 #### **Typography:**
