@@ -161,8 +161,8 @@ td {
 
 #intro {
 
-	text-align: top center;
-	position: fixed;
+	text-align: center;
+	position: relative;
 	
 }
 
