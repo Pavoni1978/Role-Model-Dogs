@@ -91,11 +91,11 @@ footer {
 
 #myImage-4 {
     width: 150px;
-    height: 3150px;
+    height: 150px;
     background-color: gray;
     object-position: left;
     border: 4px solid black;
-    position: relative;
+    
 
 }
 
