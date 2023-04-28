@@ -57,7 +57,7 @@ footer {
 }
 #myImage-1 {
     width: 400px;
-    height: 400px;
+    height: 300px;
     background-color: gray;
     object-position: left;
     border: 4px solid black;
@@ -89,14 +89,15 @@ footer {
 
 }
 
-#training-classes {
+.training-classes {
     text-align: center;
     position: relative;
    
     
     
 }
-#training-classes-table {
+.training-classes > table {
+    
     table-layout: inherit;
     align-content: center;
     border:4px;
