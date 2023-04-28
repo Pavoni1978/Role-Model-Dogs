@@ -9,16 +9,8 @@ header {
     
 }
 
-div#my_logo {
 
-    position: absolute;
-    object-position: right;
-    height: 150px;
-    width: 150px;
-    border: 4px; 
-    color: solid black;
 
-}
 
 li {
     
@@ -101,7 +93,6 @@ footer {
 
 
 
-}
 
 #training-classes {
     text-align: center;
