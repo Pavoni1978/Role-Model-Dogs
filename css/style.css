@@ -187,6 +187,7 @@ margin-top: 1em;
 object-position: right top;
 }
 
-#index (
-	
-)
+#index {
+
+display: flex;	
+}
