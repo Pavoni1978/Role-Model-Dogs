@@ -57,7 +57,7 @@ footer {
 
 }
 
-#myImage-1 {
+div #myImage-1 {
 	width: 400px;
 	height: 300px;
 	float: left;
@@ -93,7 +93,7 @@ footer {
 
 }
 
-#myImage-4 {
+div #myImage-4 {
 	width: 400px;
 	height: 300px;
 	float: right;
@@ -163,7 +163,7 @@ td {
 
 }
 
-#logo {
+div#logo {
 	float: right;
 	height: 150px;
 	width: 150px;
