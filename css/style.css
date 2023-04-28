@@ -173,11 +173,11 @@ td {
 
 #logo {
 
-width: 150px;
-height: 150px;
-float: right;
+width: 100px;
+height: 100px;
+float: right top;
 border: 4px solid black;
 position: relative;
 margin-right: 1em;
-object-position: left top;
+object-position: right top;
 }
