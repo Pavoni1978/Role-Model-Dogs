@@ -92,13 +92,17 @@ footer {
 #training-classes {
     text-align: center;
     position: relative;
-    table-layout: auto;
+   
+    
+    
+}
+#training-classes-table {
+    table-layout: inherit;
     align-content: center;
     border:4px;
     color:black;
    
-    
-    
+
 }
 
 
