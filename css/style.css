@@ -89,19 +89,23 @@ footer {
 
 }
 
-.training-classes {
-    text-align: left;
+#training-classes {
+    text-align: center;
     position: relative;
+    margin-left: auto;
+    margin-right: auto;
    
     
     
 }
-.training-classes > table {
+#table, tr, td {
     
-    table-layout: inherit;
+    table-layout: auto;
     align-content: center;
-    border:4px;
+    border:4px solid;
     color:black;
+    margin-left: auto;
+    margin-right: auto;
    
 
 }
