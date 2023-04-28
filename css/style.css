@@ -18,7 +18,7 @@ li {
 }
 
 nav {
-    text-align: right;
+    text-align: left;
 }
 
 
@@ -93,8 +93,10 @@ footer {
     width: 150px;
     height: 150px;
     background-color: gray;
-    object-position: left;
+    object-position: right;
     border: 4px solid black;
+    margin-left: 0;
+    margin-right: 0;
     
 
 }
