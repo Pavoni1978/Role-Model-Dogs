@@ -56,8 +56,8 @@ footer {
     
 }
 #myImage-1 {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     background-color: gray;
     object-position: left;
     border: 4px solid black;
@@ -92,6 +92,10 @@ footer {
 #training-classes {
     text-align: center;
     position: relative;
+    table-layout: auto;
+    align-content: center;
+    border:4px;
+    color:black;
    
     
     
@@ -111,10 +115,3 @@ footer {
     
 }
 
-#timings {
-
-    border:4px;
-    color:black;
-    table-layout: auto;
-    object-position: center;
-}
