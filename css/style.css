@@ -64,6 +64,7 @@ footer {
 	float: left;
 	border: 4px solid black;
     margin-left: 1em;
+	object-position: left;
     
 
 }
@@ -99,6 +100,7 @@ footer {
 	float: right;
 	border: 4px solid black;
     margin-right: 1em;
+	object-position: right;
     
 }
 
@@ -178,7 +180,7 @@ height: 100px;
 float: right;
 border: 4px solid black;
 position: relative;
-margin-right: 1em;
-margin-top: 5em;
+margin-right: 4em;
+margin-top: 4em;
 object-position: right top;
 }
