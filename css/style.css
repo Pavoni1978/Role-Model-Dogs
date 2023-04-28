@@ -156,3 +156,10 @@ footer {
     
 }
 
+#logo {
+    float: right;
+    height: 150px;
+    width: 150px;
+    margin-right: 1em;
+    border: 4px solid black;
+}
