@@ -125,7 +125,15 @@ footer {
     object-position: right top;
 }
 
-
+#myImage-7 {
+	width: 300px;
+	height: 300px;
+	float: right;
+	border: 4px solid black;
+	position: relative;
+    margin-right: 1em;
+    object-position: right top;
+}
 #training-classes {
 	text-align: center;
 	position: relative;
