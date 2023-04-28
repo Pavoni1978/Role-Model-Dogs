@@ -169,5 +169,6 @@ td {
 	width: 150px;
 	margin-right: 1em;
 	border: 4px solid black;
-    object-position: right top;
+    object-position: top;
+    
 }
