@@ -64,7 +64,7 @@ footer {
 	border: 4px solid black;
 	position: relative;
     margin-left: 1em;
-    object-position: left center;
+    object-position: left top;
 
 }
 
@@ -163,7 +163,7 @@ td {
 
 }
 
-div #logo > header {
+#logo {
 	float: right;
 	height: 150px;
 	width: 150px;
