@@ -1,128 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A website promoting dog training">
-    <link rel="stylesheet" href="css/style.css">
- 
-
-
-   
-</head>
-
-<body>
-<header>
-    
-    <title>Role Model Dogs</title>
-    
-    <h1>Role Model Dog Training</h1>
-    <h2>A dog to be proud of!</h2>
-
-
-
-
-    <nav>
-        <ul>
-            <li> <a href="index.html">About Us</a> </li>
-            <li> <a href="training-classes.html">Training Classes</a> </li>
-            <li> <a href="class-enquiry.html">Class Enquiry</a> </li>
-         
-            
-        </ul>
-    </nav>
-   
-</header>
-        <section id="class-enquiry">
-            <form method="post" action="enquirydumppage.html">
-                <input type="submit">
-                </form>
-            <h2>Class Enquiry</h2>
-            
-            <p>All classes are £15.00 per person</p>
-            <fieldset>
-                <legend>User Details</legend>
-                <label for="fname">First Name:</label>
-                <input id="fname" name="first_name" type="text" class="text-input" required>
-                <label for="lname">Last Name:</label>
-                <input id="lname" name="last_name" type="text" class="text-input" required>
-                <label for="dname">Dog Name:</label>
-                <input id="dname" name="dog_name" type="text" class="text-input" required>
-                <label for="dbreed">Dog Breed:</label>
-                <input id="dbreed" name="dog_breed" type="text" class="text-input" required>
-                <label for="dage">Dog Age:</label>
-                <input id="dage" name="dog_age" type="text" class="text-input" required>
-            </fieldset>
-            <fieldset>
-                <legend>Contact Information</legend>
-                <label for="telephone">Telephone Number:</label>
-                <input id="telephone" name="telephone" type="text" class="text-input" required> 
-                <label for="email">Email Address:</label>
-                <input id="email" name="email_address" type="text" class="text-input" required> 
-                
-            </fieldset>
-
-            <div>
-		    
-                <label for="times">Chosen class time:</label>
-                <input id="times" name="class-times"list="class-times" class="text-input" required>
-                <datalist id="class-times">
-                    <option value="Monday 08:00-09:30"></option>
-                    <option value="Tuesday 10:30-12:00"></option>
-                    <option value="Wednesday 14:00-15:30"></option>
-                    <option value="Thursday 16:00-17:30"></option>
-                    <option value="Friday 18:30-20:00"></option>
-                </datalist>
-    
-    </div>
-
-            <input type="submit" value="Send Enquiry" aria-label="Button that sends the enquiry">
-
-            
-        </section>
-    
-    
-
-    
-            <img id="myImage-2" src="https://github.com/Pavoni1978/Role-Model-Dogs/blob/main/assets/frenchie.jpeg?raw=true" alt="free-kisses">
-    
-            <img id="myImage-6" src="https://raw.githubusercontent.com/Pavoni1978/Role-Model-Dogs/main/assets/truck-cute.webp" alt="puppy-truck">
-
-            <img id="logo" src="https://github.com/Pavoni1978/Role-Model-Dogs/blob/main/assets/paw%20logo.jpeg?raw=true" alt="paw logo">
-
-
-        
-       
-    <footer>
-        <ul class="social-networks">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="A website promoting dog training">
+      <link rel="stylesheet" href="css/style.css">
+   </head>
+   <body>
+      <header>
+         <title>Role Model Dogs</title>
+         <h1>Role Model Dog Training</h1>
+         <h2>A dog to be proud of!</h2>
+         <nav>
+            <ul>
+               <li> <a href="index.html">About Us</a> </li>
+               <li> <a href="training-classes.html">Training Classes</a> </li>
+               <li> <a href="class-enquiry.html">Class Enquiry</a> </li>
+            </ul>
+         </nav>
+      </header>
+      <section id="class-enquiry">
+         <form method="post" action="enquirydumppage.html">
+            <input type="submit">
+         </form>
+         <h2>Class Enquiry</h2>
+         <p>All classes are £15.00 per person</p>
+         <fieldset>
+            <legend>User Details</legend>
+            <label for="fname">First Name:</label>
+            <input id="fname" name="first_name" type="text" class="text-input" required>
+            <label for="lname">Last Name:</label>
+            <input id="lname" name="last_name" type="text" class="text-input" required>
+            <label for="dname">Dog Name:</label>
+            <input id="dname" name="dog_name" type="text" class="text-input" required>
+            <label for="dbreed">Dog Breed:</label>
+            <input id="dbreed" name="dog_breed" type="text" class="text-input" required>
+            <label for="dage">Dog Age:</label>
+            <input id="dage" name="dog_age" type="text" class="text-input" required>
+         </fieldset>
+         <fieldset>
+            <legend>Contact Information</legend>
+            <label for="telephone">Telephone Number:</label>
+            <input id="telephone" name="telephone" type="text" class="text-input" required> 
+            <label for="email">Email Address:</label>
+            <input id="email" name="email_address" type="text" class="text-input" required> 
+         </fieldset>
+         <div>
+            <label for="times">Chosen class time:</label>
+            <input id="times" name="class-times"list="class-times" class="text-input" required>
+            <datalist id="class-times">
+               <option value="Monday 08:00-09:30"></option>
+               <option value="Tuesday 10:30-12:00"></option>
+               <option value="Wednesday 14:00-15:30"></option>
+               <option value="Thursday 16:00-17:30"></option>
+               <option value="Friday 18:30-20:00"></option>
+            </datalist>
+         </div>
+         <input type="submit" value="Send Enquiry" aria-label="Button that sends the enquiry">
+      </section>
+      <img id="myImage-2" src="https://github.com/Pavoni1978/Role-Model-Dogs/blob/main/assets/frenchie.jpeg?raw=true" alt="free-kisses">
+      <img id="myImage-6" src="https://raw.githubusercontent.com/Pavoni1978/Role-Model-Dogs/main/assets/truck-cute.webp" alt="puppy-truck">
+      <img id="logo" src="https://github.com/Pavoni1978/Role-Model-Dogs/blob/main/assets/paw%20logo.jpeg?raw=true" alt="paw logo">
+      <footer>
+         <ul class="social-networks">
             <li>
-                <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)">
-                    <i class="fa-brands fa-facebook-f"></i></a>
+               <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)">
+               <i class="fa-brands fa-facebook-f"></i></a>
             </li>
             <li>
-                <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)">
-                    <i class="fa-brands fa-twitter"></i></a>
+               <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)">
+               <i class="fa-brands fa-twitter"></i></a>
             </li>
             <li>
-                <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)">
-                    <i class="fa-brands fa-instagram"></i></a>
+               <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)">
+               <i class="fa-brands fa-instagram"></i></a>
             </li>
             <li>
-                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Visit our YouTube page (opens in a new tab)">
-                    <i class="fa-brands fa-youtube"></i></a>
+               <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Visit our YouTube page (opens in a new tab)">
+               <i class="fa-brands fa-youtube"></i></a>
             </li>
-        </ul>
-    
-    </footer>  
-    <script src="https://kit.fontawesome.com/7daaaf94bb.js" crossorigin="anonymous"></script>
-
-  
-    
-      
-         
-
-    
-</body>
+         </ul>
+      </footer>
+      <script src="https://kit.fontawesome.com/7daaaf94bb.js" crossorigin="anonymous"></script>
+   </body>
 </html>
