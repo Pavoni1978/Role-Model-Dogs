@@ -57,6 +57,11 @@ footer {
 
 }
 
+.index-texts {
+	text-align: center;
+	margin: auto;
+}
+
 #myImage-1 {
 	width: 400px;
 	height: 300px;
