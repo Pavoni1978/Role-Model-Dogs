@@ -193,5 +193,6 @@ display: flex;
 
 #aboutus {
 
-	display: center;
+	display: flex;
+	text-align: center;
 }
