@@ -165,7 +165,7 @@ td {
 #intro {
 
 	text-align: center;
-	margin: 0 auto;
+	margin: 5pt;
 	
 }
 
@@ -190,5 +190,6 @@ object-position: right top;
 #index {
 
 display: flex;	
+
 }
 
