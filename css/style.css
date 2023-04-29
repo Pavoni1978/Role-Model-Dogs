@@ -190,3 +190,8 @@ object-position: right top;
 
 display: flex;	
 }
+
+h2 {
+
+	text-align: center;
+}
