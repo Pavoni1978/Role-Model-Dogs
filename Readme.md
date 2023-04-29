@@ -16,6 +16,7 @@ This is a website promoting dog training, located in Edgemead, a fictional addre
   + [Training Classes](#training-classes)
    + [Class Enquiry](#class-enquiry)
   + [Footer](#footer)
+  + [Dump page](#dump-page)
 + [Technologies Used](#technologies-used)
   + [Languages Used](#languages-used)
 + [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
@@ -80,6 +81,12 @@ Through the navigation bar, the user can easily move around and take full advant
 - The footer section is set to appear continuously throughout the website so that it can be easily accessed at any time.
 
 ![Social links](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763589/Footer-media_rtajfu.png)
+
+### **Dump Page:**
+
+- The page response after filling in all text inputs and hitting the Enquiry Submit button.
+
+![Dump Page] (https://res.cloudinary.com/dawzrhuaf/image/upload/v1682764320/Dump-page_hihje4.png)
 
 
 [Back to Top](#role-model-dogs)
