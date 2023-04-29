@@ -221,11 +221,9 @@ display: flex;
 	#class-enquiry,
 	#enquirydumppage {
 
-        float: unset;
-        margin-left: auto;
-		margin-right: auto;
-        margin-bottom: 10px;
-        line-height: 10px;
+       margin: 0 auto;
+        margin-bottom: 0 auto;
+        line-height: 0 auto;
 		display: flex;
 	}
 }
