@@ -1,6 +1,6 @@
 # Role Model Dogs
 
-[View the Live Project here](https://pavoni1978.github.io/Role-Model-Dogs/)
+[View the Live Project here](https://pavoni1978.github.io/Role-Model-Dogs/index.html)
 
 This is a website promoting dog training, located in Edgemead, a fictional address. The purpose of this website is to provide information about what we can provide and how we can make a dog more pleasant to own. The website also includes the option to enquire about one of the classes and times that classes are offered. 
 
@@ -48,14 +48,14 @@ In the event of creating print media, the previous use of grey and white scale i
 - Featured on all three pages, the full responsive navigation bar includes links to all pages, About Us, Training Classes and Class Enquiry page and is identical in each page to allow for easy navigation.
 Through the navigation bar, the user can easily move around and take full advantage of all the features provided by the website.
 
-![Navigation bar]()
+![Navigation bar](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/Navigation_b23hcm.png)
 
 
 #### **About Us:**
 
 - The introduction is brief and informative. It emphasises what we offer and what we looking to achieve. It also highlights our qualifications and draws people in to look around at the other pages on offer.
 
-![intro]()
+![intro](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763608/About_Us_vjbwkd.png)
 
 
 #### **Training Classes:**
@@ -66,20 +66,20 @@ Through the navigation bar, the user can easily move around and take full advant
 - The training centre address and parking information.
 - A few house rules that the centre have in place.
 
-![classes]()
+![classes](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763607/Training_Classes_isfjb0.png)
 
 **Class Enquiry:**
 
 - This section allows visitors the option to enquire on a set class with their and dogs information. This is carried out through interactive text boxes and a drop down menu to choose a day and time slot. 
 - The form is filled in and submitted. The user is then notified with a confirmation message on a new page. 
-![class enquiry]()
+![class enquiry](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/Class_Enquiry_dmd5la.png)
 
 #### **Footer:**
 
 - This section is dedicated to the dog training centre social media links. 
 - The footer section is set to appear continuously throughout the website so that it can be easily accessed at any time.
 
-![Social links]()
+![Social links](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763589/Footer-media_rtajfu.png)
 
 
 [Back to Top](#role-model-dogs)
@@ -112,12 +112,12 @@ Through the navigation bar, the user can easily move around and take full advant
 
 #### **Validator Testing:**
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-- [W3C Markup Validator - Results]()
-- [W3C CSS Validator - Results]()
+- [W3C Markup Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/W3_html_djyobp.png)
+- [W3C CSS Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/W3_CSS_uxytlu.png)
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
-![Lighthouse](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682605072/Lighthouse_axmkm0.png)
+![Lighthouse](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/lighthouse_kahs46.png)
 
 
 [Back to Top](#role-model-dogs)
@@ -140,7 +140,7 @@ The project was deployed to GitHub Pages using the following steps:
 1. In the GitHub repository, navigate to the Settings tab.
 2. From the source section drop-down menu, select the Master Branch.
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-4. The live link can be found [HERE - Role Model Dogs](https://pavoni1978.github.io/Role-Model-Dogs/)
+4. The live link can be found [HERE - Role Model Dogs](https://pavoni1978.github.io/Role-Model-Dogs/index.html)
 
 #### **Commits:**
 Some of the commits messages are not as precise as I would have wanted them to be. Did not find it easy to learn the GitHub, GitPod databasis. Looking forward to migrating to Code Anywhere for my portfolio two project.
