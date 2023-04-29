@@ -191,7 +191,7 @@ object-position: right top;
 display: flex;	
 }
 
-h2 {
+#aboutus {
 
-	text-align: center;
+	display: flex;
 }
