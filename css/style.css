@@ -221,7 +221,7 @@ display: flex;
 	#class-enquiry,
 	#enquirydumppage {
 
-        float: center;
+        float: left;
         margin-left: 5px;
 		margin-right: 5px;
         margin-bottom: 10px;
