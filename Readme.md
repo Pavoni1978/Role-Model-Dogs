@@ -48,14 +48,14 @@ In the event of creating print media, the previous use of grey and white scale i
 - Featured on all three pages, the full responsive navigation bar includes links to all pages, About Us, Training Classes and Class Enquiry page and is identical in each page to allow for easy navigation.
 Through the navigation bar, the user can easily move around and take full advantage of all the features provided by the website.
 
-![Navigation bar](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682606545/Navigation_bar_cmprov.png)
+![Navigation bar]()
 
 
 #### **About Us:**
 
 - The introduction is brief and informative. It emphasises what we offer and what we looking to achieve. It also highlights our qualifications and draws people in to look around at the other pages on offer.
 
-![intro](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682606215/intro_ahv3sx.png)
+![intro]()
 
 
 #### **Training Classes:**
@@ -66,20 +66,20 @@ Through the navigation bar, the user can easily move around and take full advant
 - The training centre address and parking information.
 - A few house rules that the centre have in place.
 
-![classes](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607807/training_classes_gmjslt.png)
+![classes]()
 
 **Class Enquiry:**
 
 - This section allows visitors the option to enquire on a set class with their and dogs information. This is carried out through interactive text boxes and a drop down menu to choose a day and time slot. 
 - The form is filled in and submitted. The user is then notified with a confirmation message on a new page. 
-![class enquiry](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607958/class_enquiry_hpjkbv.png)
+![class enquiry]()
 
 #### **Footer:**
 
 - This section is dedicated to the dog training centre social media links. 
 - The footer section is set to appear continuously throughout the website so that it can be easily accessed at any time.
 
-![Social links](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682609782/social_media_setlmw.png)
+![Social links]()
 
 
 [Back to Top](#role-model-dogs)
@@ -112,8 +112,8 @@ Through the navigation bar, the user can easily move around and take full advant
 
 #### **Validator Testing:**
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-- [W3C Markup Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682604646/w3_html_nllxos.png)
-- [W3C CSS Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682605706/w3_css_vintpt.png)
+- [W3C Markup Validator - Results]()
+- [W3C CSS Validator - Results]()
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
