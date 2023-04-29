@@ -192,3 +192,39 @@ display: flex;
 
 }
 
+/* For larger to medium screens size from 1200px wide and down*/
+
+@media screen and (max-width:1200px) {
+
+    #intro,
+    #index,
+	#training-classes,
+	#table,
+	#class-enquiry,
+	#enquirydumppage {
+	
+	
+        width: 85%;
+
+        margin: 0 auto;
+
+	}
+
+}
+
+	/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width:950px) {
+    #intro,
+    #index,
+	#training-classes,
+	#table,
+	#class-enquiry,
+	#enquirydumppage {
+
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+	}
+}
