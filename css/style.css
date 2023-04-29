@@ -226,5 +226,6 @@ display: flex;
 		margin-right: 5px;
         margin-bottom: 10px;
         line-height: 10px;
+		display: flex;
 	}
 }
