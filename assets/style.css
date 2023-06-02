@@ -202,7 +202,7 @@ display: flex;
 	#training-classes,
 	#table,
 	#class-enquiry,
-	#enquirydumppage {
+	#enquiry-dump-page {
 	
 	
         width: 85%;
@@ -221,7 +221,7 @@ display: flex;
 	#training-classes,
 	#table,
 	#class-enquiry,
-	#enquirydumppage {
+	#enquiry-dump-page {
 
        margin: 0 auto;
         margin-bottom: 0 auto;
@@ -238,13 +238,14 @@ display: flex;
         #training-classes,
         #table,
         #class-enquiry,
-        #enquirydumppage {
+        #enquiry-dump-page {
+		   
 
             width: 400px;
             height: 93px;
             position: relative;
             font-size: 140%;
-            float: flex;
+            flex-wrap: nowrap;
             
         }
 
