@@ -241,8 +241,8 @@ display: flex;
         #enquiry-dump-page {
 		   
 
-            width: 400px;
-            height: 93px;
+            width: 100%;
+            height: 100%;
             position: relative;
             font-size: 140%;
             flex-wrap: nowrap;
