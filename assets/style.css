@@ -18,7 +18,8 @@ li {
 }
 
 nav {
-	text-align: left;
+	text-align: right;
+    margin-right: 2em;
 }
 
 
@@ -80,7 +81,7 @@ footer {
 	border: 4px solid black;
 	position: relative;
     margin-left: 1em;
-    object-position: left top;
+    object-position: right top;
 
 
 }
@@ -178,12 +179,12 @@ td {
 
 width: 100px;
 height: 100px;
-float: right;
+float: left;
 border: 4px solid black;
 position: relative;
-margin-right: 2em;
+margin-left: 2em;
 margin-top: 1em;
-object-position: right top;
+object-position: left top;
 }
 
 #index {
@@ -214,6 +215,7 @@ display: flex;
 
 	/* For medium screen sizes from 950px wide and down */
 @media screen and (max-width:950px) {
+
     #intro,
     #index,
 	#training-classes,
@@ -221,8 +223,30 @@ display: flex;
 	#class-enquiry,
 	#enquirydumppage {
 
-       margin: 1px;
-        margin-bottom: 1px;
-        line-height: 1px;
-		display: flex;
+       margin: 0 auto;
+        margin-bottom: 0 auto;
+        line-height: 0 auto;
+        flex-wrap: nowrap;
+   
     }
+    
+    /* For small screen sizes from 950px wide and down */
+
+    @media only screen and (max-device-width: 480px) {
+        #intro,
+        #index,
+        #training-classes,
+        #table,
+        #class-enquiry,
+        #enquirydumppage {
+
+            width: 400px;
+            height: 93px;
+            position: relative;
+            font-size: 140%;
+            float: flex;
+            
+        }
+
+
+
